@@ -1,0 +1,87 @@
+[
+  {
+    "event_id": "dia_32.reunion_hana_1",
+    "effects": {
+      "world_state_updates": {
+        "viminalis_status": "active_process"
+      },
+      "flags_added": [
+        "viminalis_active",
+        "memory_intrusion"
+      ],
+      "flags_removed": [],
+      "relations_changed": []
+    }
+  },
+  {
+    "event_id": "dia_34.despertar_viminalis",
+    "effects": {
+      "world_state_updates": {
+        "viminalis_status": "awakened",
+        "asura_state": "fusion_entity",
+        "corona_system": "active"
+      },
+      "flags_added": [
+        "viminalis_awakened",
+        "corona_race_started"
+      ],
+      "flags_removed": [
+        "viminalis_dormant"
+      ],
+      "relations_changed": []
+    }
+  },
+  {
+    "event_id": "dia_34.cerco_imperial",
+    "effects": {
+      "world_state_updates": {
+        "imperial_posture": "containment"
+      },
+      "flags_added": [
+        "imperial_intervention_active"
+      ],
+      "flags_removed": [],
+      "relations_changed": []
+    }
+  },
+  {
+    "event_id": "dia_34.quirinalis_asimilada",
+    "effects": {
+      "world_state_updates": {
+        "corona_balance": "destabilized"
+      },
+      "flags_added": [
+        "dual_corona_entity",
+        "corona_race_started"
+      ],
+      "flags_removed": [],
+      "relations_changed": []
+    }
+  },
+  {
+    "event_id": "dias_35_37.aceptacion_identidad",
+    "effects": {
+      "world_state_updates": {
+        "asura_identity": "integrated"
+      },
+      "flags_added": [
+        "identity_stabilization"
+      ],
+      "flags_removed": [],
+      "relations_changed": []
+    }
+  },
+  {
+    "event_id": "dias_35_37.reconciliacion_familiar_asura",
+    "effects": {
+      "world_state_updates": {
+        "family_state": "conditional_unity"
+      },
+      "flags_added": [
+        "family_as_control_system"
+      ],
+      "flags_removed": [],
+      "relations_changed": []
+    }
+  }
+]

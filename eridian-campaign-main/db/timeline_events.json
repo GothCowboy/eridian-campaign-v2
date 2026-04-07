@@ -1,0 +1,2648 @@
+[
+  {
+    "event_id": "dia_05.carta_seraphina_sin_responder",
+    "day": 5,
+    "moment": "mañana",
+    "title": "Carta de Seraphina sin responder",
+    "actors": [
+      "asura"
+    ],
+    "detail": null,
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_05.confesion_asura_rin",
+    "day": 5,
+    "moment": "mañana",
+    "title": "Confesión de cansancio a Rin",
+    "actors": [
+      "asura",
+      "rin"
+    ],
+    "detail": null,
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_05.nota_blackwood_clase",
+    "day": 5,
+    "moment": "tarde",
+    "title": "Nota del heredero Blackwood",
+    "actors": [
+      "asura",
+      "heredero_blackwood"
+    ],
+    "detail": null,
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_05.reunion_hana_cartas",
+    "day": 5,
+    "moment": "tarde",
+    "title": "Cartas Yuki-Emiko",
+    "actors": [
+      "asura",
+      "hana"
+    ],
+    "detail": null,
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_05.muerte_emiko_confirmada",
+    "day": 5,
+    "moment": "tarde",
+    "title": "Confirmación de muerte de Emiko",
+    "actors": [
+      "asura",
+      "seraphina"
+    ],
+    "detail": null,
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_05.pregunta_baile_imperial",
+    "day": 5,
+    "moment": "tarde",
+    "title": "Pregunta sobre el Baile Imperial",
+    "actors": [
+      "asura",
+      "seraphina"
+    ],
+    "detail": "“Los ríos tienen memoria”",
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_05.encuentro_charlotte",
+    "day": 5,
+    "moment": "tarde",
+    "title": "Encuentro con Charlotte Du'Pont",
+    "actors": [
+      "asura",
+      "charlotte"
+    ],
+    "detail": null,
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_05.primer_episodio_viminalis",
+    "day": 5,
+    "moment": "tarde",
+    "title": "Primer episodio de Viminalis",
+    "actors": [
+      "asura",
+      "lillia",
+      "rin"
+    ],
+    "detail": null,
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_05.partida_cempoala",
+    "day": 5,
+    "moment": "noche",
+    "title": "Salida hacia Cempoala",
+    "actors": [
+      "asura",
+      "rin"
+    ],
+    "detail": null,
+    "tags": [
+      "viminalis",
+      "emiko",
+      "seraphina",
+      "quiebre_psicologico",
+      "cempoala"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.entrada_cempoala_encubierta",
+    "day": 6,
+    "moment": "mañana",
+    "title": "Entrada por alcantarillado norte",
+    "actors": [
+      "asura",
+      "rin",
+      "barquero"
+    ],
+    "detail": "Reconocidos por rasgos Folwell",
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.revelacion_isolde",
+    "day": 6,
+    "moment": "mañana",
+    "title": "Reunión con Willow — revelación de Isolde",
+    "actors": [
+      "asura",
+      "rin",
+      "willow"
+    ],
+    "detail": "26 años, embarazada, documentado por Blackwood",
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.sirvientes_sospechosos",
+    "day": 6,
+    "moment": "mañana",
+    "title": "Detección de nuevos sirvientes",
+    "actors": [
+      "willow"
+    ],
+    "detail": "Dos incorporaciones recientes",
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.sellos_vermillion",
+    "day": 6,
+    "moment": "mañana",
+    "title": "Entrega de sellos Vermillion",
+    "actors": [
+      "willow",
+      "asura"
+    ],
+    "detail": null,
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.desayuno_francisco",
+    "day": 6,
+    "moment": "mañana",
+    "title": "Confirmación de proyecto con Francisco",
+    "actors": [
+      "asura",
+      "francisco"
+    ],
+    "detail": "Proyecto de cocinas móviles",
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.consejo_ancianos_logros",
+    "day": 6,
+    "moment": "tarde",
+    "title": "Primera sesión del Consejo de Ancianos",
+    "actors": [
+      "asura",
+      "consejo_ancianos"
+    ],
+    "detail": null,
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.acuerdo_ledwaba_pospuesto",
+    "day": 6,
+    "moment": "tarde",
+    "title": "Acuerdo Ledwaba pospuesto",
+    "actors": [
+      "asura"
+    ],
+    "detail": null,
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.recorrido_mercados",
+    "day": 6,
+    "moment": "tarde",
+    "title": "Inspección directa de mercados",
+    "actors": [
+      "asura"
+    ],
+    "detail": null,
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.tlaloc_aceptacion",
+    "day": 6,
+    "moment": "tarde",
+    "title": "Tláloc acepta a Asura como jinete",
+    "actors": [
+      "asura",
+      "tlaloc"
+    ],
+    "detail": null,
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.entrada_mictlan",
+    "day": 6,
+    "moment": "tarde",
+    "title": "Acceso al Mictlan",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Entrada mediante sello",
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.rin_isolde_encuentro",
+    "day": 6,
+    "moment": "tarde",
+    "title": "Rin visita a Isolde",
+    "actors": [
+      "rin",
+      "isolde"
+    ],
+    "detail": "Isolde aislada y vulnerable",
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.carta_yuki_serena",
+    "day": 6,
+    "moment": "noche",
+    "title": "Invitación al Torneo de Primavera",
+    "actors": [
+      "asura"
+    ],
+    "detail": null,
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_06.invitacion_aldric_seraphina",
+    "day": 6,
+    "moment": "noche",
+    "title": "Invitación de Aldric a Seraphina",
+    "actors": [
+      "aldric",
+      "seraphina"
+    ],
+    "detail": null,
+    "tags": [
+      "cempoala",
+      "politica",
+      "familia",
+      "isolde",
+      "infraestructura",
+      "seraphina",
+      "aldric"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_11.dia_11_carrei",
+    "day": 11,
+    "moment": "mañana",
+    "title": "Ejecucion de Carrei",
+    "actors": [
+      "carrie",
+      "abigail",
+      "liora",
+      "kael_ardent",
+      "amon"
+    ],
+    "detail": "les_enfants_terribles ejecutan a Carrei.",
+    "tags": [
+      "malenia",
+      "ironhaven"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_13.mictlan_asura_campeon",
+    "day": 13,
+    "moment": "tarde",
+    "title": "Asura campeón del Mictlan",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Victoria absoluta con uso simultáneo de cinco elementos",
+    "tags": [
+      "torneo",
+      "mictlan",
+      "totoloque",
+      "viminalis",
+      "byron",
+      "abdicacion",
+      "cortejo",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_13.totoloque_rin_campeona",
+    "day": 13,
+    "moment": "tarde",
+    "title": "Rin campeona del Totoloque",
+    "actors": [
+      "rin"
+    ],
+    "detail": "Dominio total en combate y victoria final",
+    "tags": [
+      "torneo",
+      "mictlan",
+      "totoloque",
+      "viminalis",
+      "byron",
+      "abdicacion",
+      "cortejo",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_13.byron_llega_torneo",
+    "day": 13,
+    "moment": "tarde",
+    "title": "Llegada de Byron al torneo",
+    "actors": [
+      "byron",
+      "asura"
+    ],
+    "detail": "Presencia no anunciada durante el Mictlan",
+    "tags": [
+      "torneo",
+      "mictlan",
+      "totoloque",
+      "viminalis",
+      "byron",
+      "abdicacion",
+      "cortejo",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_13.willow_custodio_confirmado",
+    "day": 13,
+    "moment": "tarde",
+    "title": "Confirmación de Willow como Custodio",
+    "actors": [
+      "willow"
+    ],
+    "detail": null,
+    "tags": [
+      "torneo",
+      "mictlan",
+      "totoloque",
+      "viminalis",
+      "byron",
+      "abdicacion",
+      "cortejo",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_13.byron_no_matara_asura",
+    "day": 13,
+    "moment": "tarde",
+    "title": "Byron declara que no matará a Asura",
+    "actors": [
+      "byron",
+      "asura"
+    ],
+    "detail": "Declaración explícita tras observar Viminalis",
+    "tags": [
+      "torneo",
+      "mictlan",
+      "totoloque",
+      "viminalis",
+      "byron",
+      "abdicacion",
+      "cortejo",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_13.seraphina_presente_torneo",
+    "day": 13,
+    "moment": "tarde",
+    "title": "Presencia de Seraphina en el torneo",
+    "actors": [
+      "seraphina"
+    ],
+    "detail": null,
+    "tags": [
+      "torneo",
+      "mictlan",
+      "totoloque",
+      "viminalis",
+      "byron",
+      "abdicacion",
+      "cortejo",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_13.abdicacion_eridian",
+    "day": 13,
+    "moment": "noche",
+    "title": "Abdicación de Eridian",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Asura renuncia a Eridian y permanece en Cempoala",
+    "tags": [
+      "torneo",
+      "mictlan",
+      "totoloque",
+      "viminalis",
+      "byron",
+      "abdicacion",
+      "cortejo",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_13.cortejo_formal_anunciado",
+    "day": 13,
+    "moment": "noche",
+    "title": "Anuncio de cortejo formal",
+    "actors": [
+      "asura",
+      "seraphina"
+    ],
+    "detail": null,
+    "tags": [
+      "torneo",
+      "mictlan",
+      "totoloque",
+      "viminalis",
+      "byron",
+      "abdicacion",
+      "cortejo",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_16.exploracion_texcoco",
+    "day": 16,
+    "moment": "mañana",
+    "title": "Exploración del Fuerte Texcoco",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Descenso a niveles internos y activación de estructuras antiguas",
+    "tags": [
+      "texcoco",
+      "coronas",
+      "viminalis",
+      "cosmologia",
+      "heredero",
+      "rune_legend",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_16.texcoco_vivian_coccinea",
+    "day": 16,
+    "moment": "mañana",
+    "title": "Encuentro con Vivian / Coccinea",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Manifestación dual y revelación directa",
+    "tags": [
+      "texcoco",
+      "coronas",
+      "viminalis",
+      "cosmologia",
+      "heredero",
+      "rune_legend",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_16.cinco_coronas",
+    "day": 16,
+    "moment": "mañana",
+    "title": "Revelación de las Cinco Coronas",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Entidades conscientes que se buscan y se devoran",
+    "tags": [
+      "texcoco",
+      "coronas",
+      "viminalis",
+      "cosmologia",
+      "heredero",
+      "rune_legend",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_16.sello_degradandose",
+    "day": 16,
+    "moment": "mañana",
+    "title": "Deterioro del sello",
+    "actors": [
+      "asura"
+    ],
+    "detail": "El contenedor pierde estabilidad más rápido de lo previsto",
+    "tags": [
+      "texcoco",
+      "coronas",
+      "viminalis",
+      "cosmologia",
+      "heredero",
+      "rune_legend",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_16.rune_legend",
+    "day": 16,
+    "moment": "mañana",
+    "title": "Rune Legend como única solución",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Única arma capaz de destruir la vasija sin liberar la Corona",
+    "tags": [
+      "texcoco",
+      "coronas",
+      "viminalis",
+      "cosmologia",
+      "heredero",
+      "rune_legend",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_16.nombramiento_heredero_oficial",
+    "day": 16,
+    "moment": "tarde",
+    "title": "Nombramiento oficial como heredero",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Formalización del rol dentro de Vermillion",
+    "tags": [
+      "texcoco",
+      "coronas",
+      "viminalis",
+      "cosmologia",
+      "heredero",
+      "rune_legend",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_16.carta_rin_nombramiento",
+    "day": 16,
+    "moment": "tarde",
+    "title": "Carta a Rin sobre el nombramiento",
+    "actors": [
+      "asura",
+      "rin"
+    ],
+    "detail": null,
+    "tags": [
+      "texcoco",
+      "coronas",
+      "viminalis",
+      "cosmologia",
+      "heredero",
+      "rune_legend",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_16.teseracto_asura_i",
+    "day": 16,
+    "moment": "tarde",
+    "title": "Mensaje de Asura i y Emiko Kaguya a traves de proyeccion en el teseracto",
+    "actors": [
+      "asura",
+      "rin",
+      "asura_i",
+      "emiko_kaguya"
+    ],
+    "detail": null,
+    "tags": [
+      "texcoco",
+      "coronas",
+      "viminalis",
+      "cosmologia",
+      "heredero",
+      "rune_legend",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.crisis_folwell",
+    "day": 21,
+    "moment": "mañana",
+    "title": "Resolución de crisis marítima Folwell",
+    "actors": [
+      "asura",
+      "byron"
+    ],
+    "detail": "Respuesta coordinada ante ataques piratas",
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.coordinacion_seraphina_baile",
+    "day": 21,
+    "moment": "mañana",
+    "title": "Coordinación con Seraphina para el Baile",
+    "actors": [
+      "asura",
+      "seraphina"
+    ],
+    "detail": null,
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.entrenamiento_retorico",
+    "day": 21,
+    "moment": "mañana",
+    "title": "Preparación retórica",
+    "actors": [
+      "asura",
+      "rin",
+      "lillia"
+    ],
+    "detail": "Simulación de escenarios políticos",
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.baile_imperial_interacciones",
+    "day": 21,
+    "moment": "noche",
+    "title": "Interacciones en el Baile Imperial",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Conversaciones con candidatas al Diamante",
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.encuentro_elara_solis",
+    "day": 21,
+    "moment": "noche",
+    "title": "Encuentro con Elara Solis",
+    "actors": [
+      "asura",
+      "elara_solis"
+    ],
+    "detail": "Reconocimiento implícito de la Corona",
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.conversacion_kael_rin",
+    "day": 21,
+    "moment": "noche",
+    "title": "Conversación con Kael sobre Rin",
+    "actors": [
+      "asura",
+      "kael"
+    ],
+    "detail": null,
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.carruaje_laboratorio",
+    "day": 21,
+    "moment": "noche",
+    "title": "Aprobación de laboratorio",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Asignación de 5000 monedas",
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.duelo_rin_asura",
+    "day": 21,
+    "moment": "noche",
+    "title": "Duelo entre Rin y Asura",
+    "actors": [
+      "asura",
+      "rin"
+    ],
+    "detail": "Empate tras intervención de Byron",
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_21.asura_seraphina_baile_imperial",
+    "day": 21,
+    "moment": "noche",
+    "title": "Cortejo publico entre Asura y Seraphina en el Baile Imperial",
+    "actors": [
+      "asura",
+      "seraphina"
+    ],
+    "detail": "Primera vez que se presentan como pareja en un evento público de alto perfil",
+    "tags": [
+      "imperia",
+      "baile",
+      "politica",
+      "seraphina",
+      "solis",
+      "rin",
+      "viminalis",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.carta_war_council",
+    "day": 22,
+    "moment": "mañana",
+    "title": "Orden de despliegue del War Council",
+    "actors": [
+      "asura",
+      "byron",
+      "marco_ferris"
+    ],
+    "detail": "Orden de despliegue al corredor Malinalco-Palenque con plazo de 72 horas tras intercepción de caravanas",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.analisis_byron_estrategia",
+    "day": 22,
+    "moment": "mañana",
+    "title": "Análisis estratégico de Byron",
+    "actors": [
+      "byron",
+      "asura"
+    ],
+    "detail": "Definición de estrategia en tres fases y advertencia sobre conflicto en múltiples frentes",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.contraestrategia_asura",
+    "day": 22,
+    "moment": "mañana",
+    "title": "Contraestrategia de Asura",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Uso del despliegue como cobertura para investigar intervención extranjera y operaciones false-flag",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.compra_regalo_seraphina",
+    "day": 22,
+    "moment": "tarde",
+    "title": "Compra de regalo para Seraphina",
+    "actors": [
+      "asura",
+      "lillia"
+    ],
+    "detail": "Tres porciones de helado preservadas con magia de hielo",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.delegacion_malenia",
+    "day": 22,
+    "moment": "tarde",
+    "title": "Delegación a Malenia",
+    "actors": [
+      "asura",
+      "malenia",
+      "lillia"
+    ],
+    "detail": "Entrega de sello personal y asignación de apoyo a proyecto biblioteca",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.encuentro_hana_rin",
+    "day": 22,
+    "moment": "tarde",
+    "title": "Reunión con Hana y Rin",
+    "actors": [
+      "asura",
+      "hana",
+      "rin"
+    ],
+    "detail": "Confirmación genealógica, análisis táctico del War Council y revelación de intel criminal (Connor Taylor)",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.despedida_seraphina",
+    "day": 22,
+    "moment": "tarde",
+    "title": "Encuentro y despedida con Seraphina",
+    "actors": [
+      "asura",
+      "seraphina"
+    ],
+    "detail": "Confirmación de cierre con Aldric, análisis del peso político del cortejo y beso iniciado por Seraphina",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.coordinacion_daphne_operacion",
+    "day": 22,
+    "moment": "tarde",
+    "title": "Coordinación con Daphne y Willow",
+    "actors": [
+      "asura",
+      "daphne",
+      "willow"
+    ],
+    "detail": "Redefinición del plan: Daphne ejecuta arresto de Taylor",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.plan_operativo_taylor",
+    "day": 22,
+    "moment": "tarde",
+    "title": "Definición del plan contra Taylor",
+    "actors": [
+      "asura",
+      "daphne",
+      "willow"
+    ],
+    "detail": "Secuencia: limpieza corredor → arresto → implementación naval",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.leccion_byron_poder",
+    "day": 22,
+    "moment": "tarde",
+    "title": "Lección de Byron sobre poder e instituciones",
+    "actors": [
+      "asura",
+      "byron"
+    ],
+    "detail": "Explicación sobre por qué Vermillion no puede imponer fuerza fuera del sistema imperial",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_22.partida_asura_cempoala",
+    "day": 22,
+    "moment": "noche",
+    "title": "Partida hacia Cempoala",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Salida desde muelle 7 hacia Cempoala",
+    "tags": [
+      "presion_institucional",
+      "war_council",
+      "seraphina",
+      "despedida",
+      "coordinacion",
+      "taylor",
+      "byron",
+      "familia_dispersa",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.coordinacion_mizora",
+    "day": 23,
+    "moment": "madrugada",
+    "title": "Coordinacion estrategica con Mizora",
+    "actors": [
+      "asura",
+      "mizora"
+    ],
+    "detail": "Definicion de escalacion al Consejo Imperial y preparacion de evidencia",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.briefing_orozco",
+    "day": 23,
+    "moment": "madrugada",
+    "title": "Briefing militar en Cempoala",
+    "actors": [
+      "asura",
+      "orozco"
+    ],
+    "detail": "Confirmacion de filtracion interna y vinculacion con Connor Taylor",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.inicio_operacion_malinalco",
+    "day": 23,
+    "moment": "amanecer",
+    "title": "Inicio de operacion en Malinalco",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Uso simultaneo de multiples elementos y control del terreno",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.victoria_malinalco",
+    "day": 23,
+    "moment": "amanecer",
+    "title": "Victoria total en Malinalco",
+    "actors": [
+      "asura"
+    ],
+    "detail": "38 prisioneros, 12 enemigos muertos, 3 heridos leves propios",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.recuperacion_evidencia",
+    "day": 23,
+    "moment": "mañana",
+    "title": "Recuperacion de evidencia operativa",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Documentos firmados por Connor Taylor y correspondencia con iniciales M.V.",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.interrogatorio_prisioneros",
+    "day": 23,
+    "moment": "mañana",
+    "title": "Interrogatorio y confirmacion de red",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Coordinacion desde Marisport y uso de mensajeros",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.xalapa_filtracion",
+    "day": 23,
+    "moment": "mañana",
+    "title": "Identificacion de infiltracion en Xalapa",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Guardia corrupto facilita acceso bajo autoridad de Hidalgo",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.analisis_asura",
+    "day": 23,
+    "moment": "tarde",
+    "title": "Analisis estrategico de Asura",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Identificacion de operacion de falsa bandera y posible implicacion de Blackwood",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.orden_xalapa",
+    "day": 23,
+    "moment": "tarde",
+    "title": "Orden de traslado e investigacion",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Preparacion de traslado de Hidalgo e investigacion interna",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_23.coordinacion_posterior",
+    "day": 23,
+    "moment": "tarde",
+    "title": "Coordinacion de acciones posteriores",
+    "actors": [
+      "asura",
+      "mizora",
+      "willow",
+      "daphne",
+      "byron"
+    ],
+    "detail": "Distribucion de roles para arresto, interrogatorio y escalacion politica",
+    "tags": [
+      "cempoala",
+      "malinalco",
+      "operacion_militar",
+      "asura",
+      "connor_taylor",
+      "blackwood",
+      "filtracion",
+      "politica",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.consolidacion_evidencia",
+    "day": null,
+    "moment": "dia_24",
+    "title": "Consolidacion de evidencia contra red criminal",
+    "actors": [
+      "asura",
+      "mizora"
+    ],
+    "detail": "Interrogatorio de Hidalgo confirma estructura criminal y vinculo con Blackwood",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.convocatoria_consejo",
+    "day": null,
+    "moment": "dia_24",
+    "title": "Convocatoria del Shadow Council",
+    "actors": [
+      "imperio"
+    ],
+    "detail": "El Imperio toma jurisdiccion directa del caso",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.intercepcion_comunicaciones",
+    "day": null,
+    "moment": "dia_24",
+    "title": "Intercepcion de comunicaciones Asura-Seraphina",
+    "actors": [
+      "imperio"
+    ],
+    "detail": "Cartas interceptadas y retenidas por operacion imperial",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.audiencia_imperial",
+    "day": null,
+    "moment": "dia_27",
+    "title": "Audiencia ante el Consejo Imperial",
+    "actors": [
+      "asura",
+      "byron",
+      "mizora"
+    ],
+    "detail": "Presentacion de evidencia valida contra Taylor",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.oferta_imperial_asura",
+    "day": null,
+    "moment": "dia_27",
+    "title": "Oferta imperial a Asura",
+    "actors": [
+      "asura",
+      "emperador"
+    ],
+    "detail": "Propuesta de Consejero Especial con residencia en Imperia",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.condicion_matrimonio",
+    "day": null,
+    "moment": "dia_27",
+    "title": "Imposicion de matrimonio con Mathilde",
+    "actors": [
+      "imperio",
+      "asura"
+    ],
+    "detail": "Vinculacion politica permanente con la familia imperial",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.decision_asura",
+    "day": null,
+    "moment": "dia_27",
+    "title": "Decision estrategica de Asura",
+    "actors": [
+      "asura",
+      "byron",
+      "mizora",
+      "willow"
+    ],
+    "detail": "Asura acepta condiciones imperiales para operar desde dentro",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.confrontacion_vermillion",
+    "day": null,
+    "moment": "dia_27",
+    "title": "Confrontacion interna de la familia Vermillion",
+    "actors": [
+      "byron",
+      "mizora",
+      "willow"
+    ],
+    "detail": "Confrontacion privada donde Byron confiesa operaciones de Les Enfants Terribles, la ejecucion de Carrei y su disposicion a ejecutar el Protocolo Aldebaran",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_24_27.operacion_imperial_paralela",
+    "day": null,
+    "moment": "dia_27",
+    "title": "Preparacion de intervencion final imperial",
+    "actors": [
+      "emperador",
+      "simon",
+      "elara"
+    ],
+    "detail": "Plan para que Byron solicite ejecucion si falla",
+    "tags": [
+      "imperio",
+      "shadow_council",
+      "asura",
+      "vermillion",
+      "byron",
+      "mizora",
+      "willow",
+      "carrei",
+      "blackwood",
+      "mathilde",
+      "seraphina",
+      "viminalis",
+      "aldebaran",
+      "ruptura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.evaluacion_mizora",
+    "day": "28-30",
+    "moment": "mañana (dia 28)",
+    "title": "Evaluacion estrategica con Mizora",
+    "actors": [
+      "asura",
+      "mizora"
+    ],
+    "detail": "Confirmacion del compromiso negociado por Byron y analisis de presion imperial",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.carta_seraphina",
+    "day": "28-30",
+    "moment": "mañana (dia 28)",
+    "title": "Recepcion de carta de Seraphina",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Seraphina confirma ruptura forzada pero mantiene vinculo emocional",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.ruptura_asura",
+    "day": "28-30",
+    "moment": "mañana (dia 28)",
+    "title": "Crisis interna de Asura",
+    "actors": [
+      "asura",
+      "mizora"
+    ],
+    "detail": "Autolesion y rechazo de su identidad bajo presion de Viminalis y el compromiso",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.marco_byron",
+    "day": "28-30",
+    "moment": "mañana (dia 28)",
+    "title": "Definicion filosofica con Byron",
+    "actors": [
+      "asura",
+      "byron"
+    ],
+    "detail": "Transformacion del resentimiento en accion y entrega de ventana de 6 meses",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.encuentro_mathilde",
+    "day": "28-30",
+    "moment": "mediodia (dia 28)",
+    "title": "Primer encuentro con Mathilde Wittelsbach",
+    "actors": [
+      "asura",
+      "mathilde"
+    ],
+    "detail": "Interaccion inicial bajo protocolo que evoluciona a conversacion honesta",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.acuerdo_alianza",
+    "day": "28-30",
+    "moment": "mediodia (dia 28)",
+    "title": "Formacion de alianza funcional",
+    "actors": [
+      "asura",
+      "mathilde"
+    ],
+    "detail": "Acuerdo de protocolo en publico y honestidad en privado",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.revelacion_condicion",
+    "day": "28-30",
+    "moment": "mediodia (dia 28)",
+    "title": "Revelacion parcial de la condicion de Asura",
+    "actors": [
+      "asura",
+      "mathilde"
+    ],
+    "detail": "Asura admite su posible muerte sin detallar Viminalis",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.analisis_dinastico",
+    "day": "28-30",
+    "moment": "tarde (dia 28)",
+    "title": "Analisis de implicaciones dinasticas",
+    "actors": [
+      "asura",
+      "mathilde"
+    ],
+    "detail": "Discusion sobre heredero con sangre Vermillion y Wittelsbach",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.consolidacion_compromiso",
+    "day": "28-30",
+    "moment": "tarde-noche (dia 28)",
+    "title": "Consolidacion del compromiso imperial",
+    "actors": [
+      "asura",
+      "byron",
+      "mizora"
+    ],
+    "detail": "Confirmacion de anuncio publico el lunes y condiciones del acuerdo",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.transicion_estrategica",
+    "day": "28-30",
+    "moment": "dia 29",
+    "title": "Transicion a entorno politico imperial",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Asura abandona mentalidad de campo militar y adopta enfoque politico",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.rin_regresa_imperia",
+    "day": "28-30",
+    "moment": "dia 29-30",
+    "title": "Llegada de Rin a Imperia",
+    "actors": [
+      "rin",
+      "asura"
+    ],
+    "detail": "Rin responde a la carta y se integra al escenario imperial",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.asura_mathilde_formalizacion_publica",
+    "day": "28-30",
+    "moment": "dia 30",
+    "title": "Asura y Mathilde formalizan su compromiso ante la corte imperial",
+    "actors": [
+      "asura",
+      "byron",
+      "mathilde",
+      "imperio"
+    ],
+    "detail": "El emperador anuncia el compromiso en un evento público, consolidando la alianza y enviando un mensaje claro a la nobleza",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_28_30.reconfiguracion_tablero",
+    "day": "28-30",
+    "moment": "dia 30",
+    "title": "Reconfiguracion del equilibrio politico",
+    "actors": [
+      "asura",
+      "rin",
+      "mathilde",
+      "imperio"
+    ],
+    "detail": "Presencia simultanea de multiples actores Vermillion en Imperia",
+    "tags": [
+      "imperia",
+      "asura",
+      "mathilde",
+      "rin",
+      "seraphina",
+      "byron",
+      "mizora",
+      "compromiso",
+      "politica",
+      "dinastico",
+      "viminalis",
+      "alianza",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_32.reunion_amon_elara",
+    "day": 32,
+    "moment": "madrugada",
+    "title": "Reunion Amon / Elara",
+    "actors": [
+      "amon",
+      "elara"
+    ],
+    "detail": "Confirmacion de supervision imperial sobre Viminalis y reconocimiento del Protocolo Aldebaran",
+    "tags": [
+      "viminalis",
+      "asura",
+      "rin",
+      "hana",
+      "amon",
+      "elara",
+      "coccinea",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_32.conversacion_asura_rin",
+    "day": 32,
+    "moment": "mañana",
+    "title": "Descarga de informacion Asura / Rin",
+    "actors": [
+      "asura",
+      "rin"
+    ],
+    "detail": "Asura relata eventos recientes, carta de Seraphina y describe visiones",
+    "tags": [
+      "viminalis",
+      "asura",
+      "rin",
+      "hana",
+      "amon",
+      "elara",
+      "coccinea",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_32.reunion_hana_1",
+    "day": 32,
+    "moment": "media_mañana",
+    "title": "Analisis inicial con Hana",
+    "actors": [
+      "asura",
+      "rin",
+      "hana"
+    ],
+    "detail": "Hana confirma que las visiones son memorias de Coccinea y que el sueño es el canal",
+    "tags": [
+      "viminalis",
+      "asura",
+      "rin",
+      "hana",
+      "amon",
+      "elara",
+      "coccinea",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_32.activacion_red",
+    "day": 32,
+    "moment": "noche",
+    "title": "Activacion de red estrategica",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Envio de cartas a multiples actores clave",
+    "tags": [
+      "viminalis",
+      "asura",
+      "rin",
+      "hana",
+      "amon",
+      "elara",
+      "coccinea",
+      "imperio",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_33.carta_mathilde",
+    "day": 33,
+    "moment": "mañana",
+    "title": "Confirmacion de reunion con Mathilde",
+    "actors": [
+      "asura",
+      "mathilde"
+    ],
+    "detail": "Mathilde confirma encuentro privado sin personal adicional",
+    "tags": [
+      "asura",
+      "rin",
+      "mathilde",
+      "hana",
+      "galadriel",
+      "kael",
+      "preparacion",
+      "transicion"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_33.entrenamiento",
+    "day": 33,
+    "moment": "mañana",
+    "title": "Entrenamiento y evaluacion de duelos",
+    "actors": [
+      "asura",
+      "rin",
+      "hana"
+    ],
+    "detail": "Discusion sobre duelos formales y analisis de estilo de combate",
+    "tags": [
+      "asura",
+      "rin",
+      "mathilde",
+      "hana",
+      "galadriel",
+      "kael",
+      "preparacion",
+      "transicion"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_33.evaluacion_galadriel",
+    "day": 33,
+    "moment": "media_mañana",
+    "title": "Evaluacion de Galadriel Morgan",
+    "actors": [
+      "asura",
+      "rin"
+    ],
+    "detail": "Comparacion entre estilos de mana",
+    "tags": [
+      "asura",
+      "rin",
+      "mathilde",
+      "hana",
+      "galadriel",
+      "kael",
+      "preparacion",
+      "transicion"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_33.salida_mercado",
+    "day": 33,
+    "moment": "tarde",
+    "title": "Interaccion social y evaluacion de Kael",
+    "actors": [
+      "asura",
+      "rin"
+    ],
+    "detail": "Analisis de Kael y discusion sobre duelos",
+    "tags": [
+      "asura",
+      "rin",
+      "mathilde",
+      "hana",
+      "galadriel",
+      "kael",
+      "preparacion",
+      "transicion"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_33.reunion_hana",
+    "day": 33,
+    "moment": "media_tarde",
+    "title": "Monitoreo de estado",
+    "actors": [
+      "asura",
+      "hana"
+    ],
+    "detail": "Evaluacion del descanso de Asura y estabilidad de Viminalis",
+    "tags": [
+      "asura",
+      "rin",
+      "mathilde",
+      "hana",
+      "galadriel",
+      "kael",
+      "preparacion",
+      "transicion"
+    ],
+    "importance": "major"
+  },
+  {
+    "event_id": "dia_34.reunion_mathilde",
+    "day": 34,
+    "moment": "mañana",
+    "title": "Reunion con Mathilde",
+    "actors": [
+      "asura",
+      "mathilde"
+    ],
+    "detail": "Confirmacion de vigilancia y planificacion de gira benefica",
+    "tags": [
+      "viminalis",
+      "coronas",
+      "texcoco",
+      "imperio",
+      "war_council",
+      "asura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_34.colapso_asura",
+    "day": 34,
+    "moment": "mediodia",
+    "title": "Colapso de Asura",
+    "actors": [
+      "asura",
+      "mizora",
+      "rin"
+    ],
+    "detail": "Ruptura del sello de Texcoco",
+    "tags": [
+      "viminalis",
+      "coronas",
+      "texcoco",
+      "imperio",
+      "war_council",
+      "asura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_34.despertar_viminalis",
+    "day": 34,
+    "moment": "mediodia",
+    "title": "Primer despertar completo de Viminalis",
+    "actors": [
+      "asura",
+      "viminalis"
+    ],
+    "detail": "Manifestacion consciente y revelacion del estado de las Coronas",
+    "tags": [
+      "viminalis",
+      "coronas",
+      "texcoco",
+      "imperio",
+      "war_council",
+      "asura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_34.quirinalis_asimilada",
+    "day": 34,
+    "moment": "mediodia",
+    "title": "Asimilacion de Quirinalis",
+    "actors": [
+      "desconocido"
+    ],
+    "detail": "Otra vasija obtiene dos Coronas",
+    "tags": [
+      "viminalis",
+      "coronas",
+      "texcoco",
+      "imperio",
+      "war_council",
+      "asura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_34.cerco_imperial",
+    "day": 34,
+    "moment": "tarde",
+    "title": "Cerco de los Landsknechts",
+    "actors": [
+      "imperio",
+      "byron"
+    ],
+    "detail": "Mansion Vermillion rodeada tras multiples eventos de activacion",
+    "tags": [
+      "viminalis",
+      "coronas",
+      "texcoco",
+      "imperio",
+      "war_council",
+      "asura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_34.acuerdo_war_council",
+    "day": 34,
+    "moment": "tarde",
+    "title": "Convocatoria al War Council",
+    "actors": [
+      "byron",
+      "imperio"
+    ],
+    "detail": "Reunion fijada para el dia siguiente en terreno neutral",
+    "tags": [
+      "viminalis",
+      "coronas",
+      "texcoco",
+      "imperio",
+      "war_council",
+      "asura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dia_34.sintesis_viminalis_asura",
+    "day": 34,
+    "moment": "noche",
+    "title": "Aceptacion de la sintesis",
+    "actors": [
+      "asura",
+      "viminalis"
+    ],
+    "detail": "Asura acepta la fusion como identidad funcional",
+    "tags": [
+      "viminalis",
+      "coronas",
+      "texcoco",
+      "imperio",
+      "war_council",
+      "asura",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.ruptura_pre_war_council",
+    "day": "35-37",
+    "moment": "dia_35_manana",
+    "title": "Ruptura con Byron",
+    "actors": [
+      "asura",
+      "byron"
+    ],
+    "detail": "Manifestacion de soberbia provoca cancelacion del War Council",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.negociacion_war_council",
+    "day": "35-37",
+    "moment": "dia_35_manana",
+    "title": "Negociacion con War Council",
+    "actors": [
+      "byron",
+      "imperio"
+    ],
+    "detail": "Solicitud de plazo para evaluacion",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.confrontacion_rin",
+    "day": "35-37",
+    "moment": "dia_35_tarde",
+    "title": "Confrontacion con Rin",
+    "actors": [
+      "asura",
+      "rin"
+    ],
+    "detail": "Discusion sobre miedo, humanidad y soberbia",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.aceptacion_identidad",
+    "day": "35-37",
+    "moment": "dia_35_tarde",
+    "title": "Aceptacion de identidad integrada",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Asura reconoce que Viminalis es parte de si mismo",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.revelacion_malenia",
+    "day": "35-37",
+    "moment": "dia_36_tarde",
+    "title": "Revelacion completa a Malenia",
+    "actors": [
+      "asura",
+      "rin",
+      "malenia"
+    ],
+    "detail": "Explicacion del sistema de Coronas y riesgo real",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.reunion_rin_mathilde",
+    "day": "35-37",
+    "moment": "dia_36_tarde",
+    "title": "Reunion Rin-Mathilde",
+    "actors": [
+      "rin",
+      "mathilde"
+    ],
+    "detail": "Evaluacion mutua y continuidad de alianza",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.reconciliacion_familiar_asura",
+    "day": "35-37",
+    "moment": "dia_37_tarde",
+    "title": "Reunion familiar Vermillion",
+    "actors": [
+      "asura",
+      "byron",
+      "willow",
+      "mizora",
+      "hana",
+      "rin"
+    ],
+    "detail": "Evaluacion de estado, identidad y riesgos",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.correccion_empatia",
+    "day": "35-37",
+    "moment": "dia_37_tarde",
+    "title": "Correccion sobre empatia selectiva",
+    "actors": [
+      "familia"
+    ],
+    "detail": "Rechazo total a deshumanizacion",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  },
+  {
+    "event_id": "dias_35_37.compromiso_conejo",
+    "day": "35-37",
+    "moment": "dia_37_tarde",
+    "title": "Compromiso de responsabilidad emocional",
+    "actors": [
+      "asura"
+    ],
+    "detail": "Cuidado de animal como ejercicio de empatia",
+    "tags": [
+      "asura",
+      "viminalis",
+      "familia",
+      "contencion",
+      "identidad",
+      "war_council",
+      "critico"
+    ],
+    "importance": "critical"
+  }
+]

@@ -1,0 +1,514 @@
+{
+  "Asura": {
+    "file": "personajes/Asura.md",
+    "role": "protagonist",
+    "house": ["Vermillion", "Folwell"],
+    "tags": ["heir", "political", "combat", "viminalis"],
+    "allies": ["Rin", "Malenia", "Lillia", "Hana", "Willow"],
+    "tensions": ["Seraphina", "Byron"],
+    "antagonists": [],
+    "notes": "Centro narrativo."
+  },
+
+  "Rin": {
+    "file": "personajes/Rin.md",
+    "role": "co_protagonist",
+    "house": ["Vermillion", "Kaguya"],
+    "tags": ["combat", "strategic", "observer"],
+    "allies": ["Asura", "Lillia", "Hana"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Equilibrio de Asura."
+  },
+
+  "Seraphina": {
+    "file": "personajes/Seraphina.md",
+    "role": "primary_female_lead",
+    "house": ["Valort"],
+    "tags": ["politics", "spycraft", "romance"],
+    "allies": ["MarcusBattler", "Briana", "Jasmin", "Helga", "Galadriel"],
+    "tensions": ["Asura", "Aldric"],
+    "antagonists": [],
+    "notes": "Conflicto político y emocional."
+  },
+
+  "Aldric": {
+    "file": "personajes/Aldric.md",
+    "role": "romantic_rival",
+    "house": ["DuUrden"],
+    "tags": ["charismatic", "noble"],
+    "allies": [],
+    "tensions": ["Asura"],
+    "antagonists": [],
+    "notes": "Rival legítimo."
+  },
+
+  "Malenia": {
+    "file": "personajes/Malenia.md",
+    "role": "retainer",
+    "house": [],
+    "tags": ["logistics", "loyal"],
+    "allies": ["Asura"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Lealtad personal."
+  },
+
+  "Lillia": {
+    "file": "personajes/Lillia.md",
+    "role": "ally",
+    "house": ["Vermillion"],
+    "tags": ["observer", "analytical"],
+    "allies": ["Rin", "Hana"],
+    "tensions": ["Asura"],
+    "antagonists": [],
+    "notes": "Distancia emocional activa."
+  },
+
+  "Byron": {
+    "file": "personajes/Byron.md",
+    "role": "power_center",
+    "house": ["Vermillion"],
+    "tags": ["archduke"],
+    "allies": ["Willow", "Mizora"],
+    "tensions": ["Asura", "Rin"],
+    "antagonists": [],
+    "notes": "Actor de alto impacto."
+  },
+
+  "Willow": {
+    "file": "personajes/Willow.md",
+    "role": "maternal_power",
+    "house": ["Folwell", "Vermillion"],
+    "tags": ["political"],
+    "allies": ["Asura", "Rin"],
+    "tensions": ["Mizora"],
+    "antagonists": [],
+    "notes": "Ancla emocional."
+  },
+
+  "Mizora": {
+    "file": "personajes/Mizora.md",
+    "role": "strategist",
+    "house": ["Kaguya", "Vermillion"],
+    "tags": ["manipulation", "politics"],
+    "allies": ["Rin", "Byron"],
+    "tensions": ["Willow"],
+    "antagonists": [],
+    "notes": "Opera en capas."
+  },
+
+  "Hana": {
+    "file": "personajes/Hana.md",
+    "role": "academic_ally",
+    "house": ["Ishikawa"],
+    "tags": ["research"],
+    "allies": ["Rin", "Lillia"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Nodo de conocimiento. Tia de Asura y Rin"
+  },
+
+  "Daphne": {
+    "file": "personajes/Daphne.md",
+    "role": "secondary_ally",
+    "house": ["Folwell"],
+    "tags": ["political"],
+    "allies": [],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Riesgo político interno."
+  },
+  "Asher": {
+    "file": "personajes/Asher.md",
+    "role": "noble",
+    "house": ["Vermillion"],
+    "tags": ["lineage", "political"],
+    "allies": [],
+    "tensions": ["Byron"],
+    "antagonists": [],
+    "notes": "Miembro de la línea Vermillion. Relevante en dinámica familiar y sucesión. Tio de Asura y Rin"
+  },
+
+  "Lilly": {
+    "file": "personajes/LillyEvans.md",
+    "role": "ambassador",
+    "house": [],
+    "tags": ["politics", "diplomacy"],
+    "allies": [],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Embajadora de Imperia en Heian-Kyo. Contacto diplomático clave. Tia de Asura y Rin"
+  },
+
+  "Serena": {
+    "file": "personajes/Serena.md",
+    "role": "core_character",
+    "house": [],
+    "tags": ["emotional_axis", "character_driven"],
+    "allies": ["Yuki"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Personaje central en su propio eje narrativo. No confundir con otros personajes."
+  },
+
+  "Yuki": {
+    "file": "personajes/Yuki.md",
+    "role": "core_character",
+    "house": [],
+    "tags": ["emotional_axis", "character_driven"],
+    "allies": ["Serena"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Contraparte de Serena. Mantener identidad separada."
+  },
+
+  "Evan": {
+    "file": "personajes/Evan.md",
+    "role": "provisional_ally",
+    "house": [],
+    "tags": ["civilian"],
+    "allies": ["Asura"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Perspectiva externa."
+  },
+
+  "Charlotte": {
+    "file": "personajes/Charlotte.md",
+    "role": "social_wildcard",
+    "house": ["DuUrden"],
+    "tags": ["artist"],
+    "allies": [],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Sin agenda clara."
+  },
+
+  "SeraVoss": {
+    "file": "personajes/SeraVoss.md",
+    "role": "covert_asset",
+    "house": [],
+    "tags": ["infiltration"],
+    "allies": [],
+    "tensions": ["Duren"],
+    "antagonists": [],
+    "notes": "Observadora encubierta."
+  },
+
+  "Duren": {
+    "file": "personajes/Duren.md",
+    "role": "knowledge_holder",
+    "house": [],
+    "tags": ["academic"],
+    "allies": ["Hana"],
+    "tensions": ["IglesiaImperial"],
+    "antagonists": [],
+    "notes": "Bajo presión."
+  },
+
+  "BlackwoodHeir": {
+    "file": "personajes/BlackwoodHeir.md",
+    "role": "ambiguous_actor",
+    "house": ["Blackwood"],
+    "tags": ["political"],
+    "allies": [],
+    "tensions": ["Blackwood"],
+    "antagonists": [],
+    "notes": "Separado de su casa."
+  },
+
+  "LordBlackwood": {
+    "file": "personajes/LordBlackwood.md",
+    "role": "antagonist",
+    "house": ["Blackwood"],
+    "tags": ["bureaucracy"],
+    "allies": [],
+    "tensions": ["Asura"],
+    "antagonists": ["Asura"],
+    "notes": "Oposición política principal."
+  },
+
+  "KaelWittelsbach": {
+    "file": "personajes/KaelWittelsbach.md",
+    "role": "imperial_actor",
+    "house": ["Wittelsbach"],
+    "tags": ["prince"],
+    "allies": [],
+    "tensions": ["Rin"],
+    "antagonists": [],
+    "notes": "Variable imperial."
+  },
+
+  "Elara": {
+    "file": "personajes/Elara.md",
+    "role": "imperial_weapon",
+    "house": [],
+    "tags": ["high_power"],
+    "allies": ["IglesiaImperial"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Recurso del Imperio."
+  },
+
+  "Briana": {
+    "file": "personajes/Briana.md",
+    "role": "noble",
+    "house": [],
+    "tags": ["nobility", "court"],
+    "allies": ["Seraphina", "Jasmin", "Helga", "Galadriel"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Círculo social de élite."
+  },
+
+  "Jasmin": {
+    "file": "personajes/Jasmin.md",
+    "role": "noble",
+    "house": [],
+    "tags": ["nobility", "court"],
+    "allies": ["Seraphina", "Briana", "Helga", "Galadriel"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Círculo social de élite."
+  },
+
+  "Helga": {
+    "file": "personajes/Helga.md",
+    "role": "noble",
+    "house": [],
+    "tags": ["nobility", "court"],
+    "allies": ["Seraphina", "Briana", "Jasmin", "Galadriel"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Círculo social de élite."
+  },
+
+  "Galadriel": {
+    "file": "personajes/Galadriel.md",
+    "role": "noble",
+    "house": [],
+    "tags": ["nobility", "court"],
+    "allies": ["Seraphina", "Briana", "Jasmin", "Helga"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Círculo social de élite."
+  },
+  "AsuraI": {
+    "file": "personajes/AsuraI.md",
+    "role": "foundational_figure",
+    "house": ["Vermillion"],
+    "tags": ["myth", "war_hero", "creator"],
+    "allies": ["Serena", "Yuki", "EmikoKaguya"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Fundador de la tradición Vermillion. Responsable del fin de la Segunda Guerra Eldrica y creador del Protocolo Aldebaran."
+  },
+
+  "EmikoKaguya": {
+    "file": "personajes/EmikoKaguya.md",
+    "role": "foundational_figure",
+    "house": ["Kaguya"],
+    "tags": ["research", "cosmology", "aldebaran"],
+    "allies": ["AsuraI", "Yuki", "CarreiHalsey"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Figura clave en el desarrollo del conocimiento sobre las Coronas y el Protocolo Aldebaran. Dejó las tres magias adicionales."
+  },
+
+  "CarreiHalsey": {
+    "file": "personajes/CarreiHalsey.md",
+    "role": "mentor",
+    "house": [],
+    "tags": ["combat", "teacher", "aldebaran"],
+    "allies": ["AsuraI", "EmikoKaguya"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Maestra de Asura y Rin. Discípula directa de Asura I. Figura clave en la activación del Protocolo Aldebaran."
+  }, 
+  "Francisco": {
+    "file": "personajes/Francisco.md",
+    "role": "informal_intelligence",
+    "house": [],
+    "tags": ["local_network"],
+    "allies": ["Asura"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Fuente de inteligencia local en Cempoala."
+  },
+
+  "ComandanteOrozco": {
+    "file": "personajes/ComandanteOrozco.md",
+    "role": "military",
+    "house": [],
+    "tags": ["army"],
+    "allies": ["Asura"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Oficial directo y honesto."
+  },
+
+  "MarcusBattler": {
+    "file": "personajes/MarcusBattler.md",
+    "role": "knight",
+    "house": [],
+    "tags": ["bodyguard"],
+    "allies": ["Seraphina"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Caballero personal de Seraphina."
+  },
+
+  "IslaMerren": {
+    "file": "personajes/IslaMerren.md",
+    "role": "student",
+    "house": ["Morgan"],
+    "tags": ["political_risk"],
+    "allies": ["Daphne"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Punto de conflicto potencial."
+  },
+
+  "Roderic": {
+    "file": "personajes/Roderic.md",
+    "role": "hidden_actor",
+    "house": [],
+    "tags": ["texcoco", "hidden_construction"],
+    "allies": [],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Conocimiento crítico sobre estructuras bajo Texcoco."
+  },
+  "CaetanoVeil": {
+    "file": "personajes/CaetanoVeil.md",
+    "role": "shadow_council",
+    "house": ["Crest"],
+    "tags": ["finance", "banking"],
+    "allies": ["AurelioIII"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Controla redes bancarias del este."
+  },
+
+  "IsabelaMoro": {
+    "file": "personajes/IsabelaMoro.md",
+    "role": "shadow_council",
+    "house": [],
+    "tags": ["intelligence", "covert"],
+    "allies": ["AurelioIII"],
+    "tensions": ["Valort"],
+    "antagonists": [],
+    "notes": "Ex-Valort. Ahora dirige inteligencia imperial."
+  },
+
+  "SimonDrake": {
+    "file": "personajes/SimonDrake.md",
+    "role": "shadow_council",
+    "house": [],
+    "tags": ["church", "religion"],
+    "allies": ["AurelioIII"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Arzobispo con conexión a God Shattering Star."
+  },
+
+  "MarcoFerris": {
+    "file": "personajes/MarcoFerris.md",
+    "role": "shadow_council",
+    "house": ["Ferris"],
+    "tags": ["military"],
+    "allies": ["AurelioIII"],
+    "tensions": ["Byron"],
+    "antagonists": [],
+    "notes": "General y enemigo personal de Byron."
+  },
+
+  "AdrianSolis": {
+    "file": "personajes/AdrianSolis.md",
+    "role": "shadow_council",
+    "house": [],
+    "tags": ["law", "politics"],
+    "allies": ["AurelioIII"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Arquitecto legal del despojo de garantías nobles."
+  },
+
+  "RenaKash": {
+    "file": "personajes/RenaKash.md",
+    "role": "shadow_council",
+    "house": [],
+    "tags": ["trade"],
+    "allies": ["AurelioIII"],
+    "tensions": ["Folwell"],
+    "antagonists": [],
+    "notes": "Controla rutas comerciales Imperia–Marisport."
+  }, 
+  "AurelioIII": {
+    "file": "personajes/AurelioIII.md",
+    "role": "emperor",
+    "house": ["Wittelsbach"],
+    "tags": ["imperial", "strategic", "hidden_power"],
+    "allies": [],
+    "tensions": ["Vermillion", "GrandesCasas"],
+    "antagonists": [],
+    "notes": "Emperador que finge debilidad mientras centraliza el poder."
+  },
+
+  "Adelheid": {
+    "file": "personajes/Adelheid.md",
+    "role": "empress",
+    "house": ["DuUrden", "Wittelsbach"],
+    "tags": ["court", "cultural_influence"],
+    "allies": ["AurelioIII"],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Consorte imperial con influencia cortesana."
+  },
+
+  "Heinrich": {
+    "file": "personajes/Heinrich.md",
+    "role": "heir",
+    "house": ["Wittelsbach"],
+    "tags": ["imperial", "political"],
+    "allies": [],
+    "tensions": ["Vermillion"],
+    "antagonists": [],
+    "notes": "Príncipe heredero con resentimiento hacia Vermillion."
+  },
+
+  "Wolfram": {
+    "file": "personajes/Wolfram.md",
+    "role": "prince",
+    "house": ["Wittelsbach"],
+    "tags": ["imperial"],
+    "allies": [],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Sin rol activo actual."
+  },
+
+  "Konrad": {
+    "file": "personajes/Konrad.md",
+    "role": "prince",
+    "house": ["Wittelsbach"],
+    "tags": ["imperial"],
+    "allies": [],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Príncipe menor."
+  },
+
+  "Mathilde": {
+    "file": "personajes/mathilde.md",
+    "role": "princess",
+    "house": ["Wittelsbach"],
+    "tags": ["court", "political"],
+    "allies": [],
+    "tensions": [],
+    "antagonists": [],
+    "notes": "Participación ceremonial en el Baile Imperial."
+  }
+  
+}

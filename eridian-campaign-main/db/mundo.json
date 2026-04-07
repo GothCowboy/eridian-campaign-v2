@@ -1,0 +1,175 @@
+{
+  "mundo": {
+    "contexto": "Europa postapocalíptica tras las Guerras Eldricas.",
+    "elementos": [
+      "magia",
+      "criaturas fantasticas",
+      "tecnologia fragmentada"
+    ]
+  },
+
+  "guerras_eldricas": {
+    "primera": {
+      "tiempo": "~400 años",
+      "causa_publica": "criaturas eldricas alteraron la realidad",
+      "causa_real": "Cath Palug",
+      "consecuencia": "colapso civilizatorio, introduccion del mana"
+    },
+    "segunda": {
+      "duracion": "27 años",
+      "termino": "hace 33 años",
+      "causa_publica": "culto abrio puertas dimensionales",
+      "causa_real": "Nyarlathotep via ambicion de poder humana",
+      "resultado": "Asura I usa God Shattering Star",
+      "secreto": "Protocolo Aldebaran y sello de Vivian"
+    }
+  },
+
+  "imperio": {
+    "estructura": "feudal centralizado",
+    "casa_imperial": "Wittelsbach",
+    "principales_casas": [
+      "Vermillion",
+      "Folwell",
+      "Valort",
+      "Blackwood",
+      "Mondragon",
+      "Kaelen",
+      "Ledwaba",
+      "DuUrden",
+      "Kaguya",
+      "Morgan",
+      "Stream"
+    ]
+  },
+
+  "casas": {
+    "Vermillion": {
+      "capital": "Cempoala",
+      "dominio": "militar"
+    },
+    "Folwell": {
+      "capital": "Marisport",
+      "dominio": "naval y comercio"
+    },
+    "Valort": {
+      "capital": "Frosthold",
+      "dominio": "inteligencia"
+    },
+    "Blackwood": {
+      "capital": "Arzhan",
+      "dominio": "burocracia"
+    },
+    "Mondragon": {
+      "capital": "Castilla",
+      "dominio": "academia y ciencia"
+    },
+    "Kaelen": {
+      "capital": "Sylvaris",
+      "dominio": "artefactos"
+    },
+    "Ledwaba": {
+      "capital": "Cahokia",
+      "dominio": "riqueza"
+    },
+    "DuUrden": {
+      "capital": "Aethelgard",
+      "dominio": "cultura"
+    }
+  },
+
+  "instituciones": {
+    "Treasury": ["Ledwaba", "Folwell"],
+    "TributaryService": ["Blackwood"],
+    "SecretService": ["Valort"],
+    "WarCouncil": ["Vermillion", "Stream"],
+    "Chancellery": ["Kaguya", "Morgan"],
+    "HighCourt": ["Blackwood", "Emperador"]
+  },
+
+  "cosmologia": {
+    "tipos": [
+      "Bestias Eldricas",
+      "Bestias de Gaia"
+    ],
+
+    "bestias_gaia": [
+      "Goetia",
+      "Tiamat",
+      "Mara",
+      "CathPalug",
+      "Coccinea",
+      "Chaldeas",
+      "AngraMainyu"
+    ],
+
+    "coccinea": {
+      "estado": "fragmentada",
+      "mecanismo": "7 coronas"
+    }
+  },
+
+  "coronas": {
+    "Viminalis": {
+      "portador": "Asura",
+      "estado": "activo"
+    },
+    "Quirinalis": {
+      "estado": "sellada"
+    },
+    "Capitolium": {
+      "portador": "PrincesaElfica"
+    },
+    "Palatium": {
+      "portador": "SeñorEnano"
+    },
+    "Aventinus": {
+      "portador": "BastardoImperial"
+    },
+    "Esquilinus": {
+      "estado": "desconocido"
+    },
+    "Caelius": {
+      "estado": "desconocido"
+    }
+  },
+
+  "les_enfants_terribles": {
+    "tipo": "entidades ocultas",
+    "miembros": [
+      "Byron",
+      "Abigail",
+      "Amon",
+      "Liora",
+      "KaelArdent"
+    ],
+    "objetivo": "evitar nueva guerra eldric",
+    "estado": "activo"
+  },
+
+  "magia": {
+    "tipos": [
+      "elemental",
+      "hechiceria",
+      "taumaturgia",
+      "magia_con_nombre"
+    ]
+  },
+
+  "magias_con_nombre": [
+    "ExcaliburGalatine",
+    "Brahmastra",
+    "Amalavijñana",
+    "VasaviShakti",
+    "GodShatteringStar",
+    "Kaleidoscope",
+    "HeavensFeel",
+    "SoulForge"
+  ],
+
+  "aldebaran": {
+    "tipo": "protocolo",
+    "estado": "activo",
+    "proposito": "respuesta a regreso de Coccinea"
+  }
+}

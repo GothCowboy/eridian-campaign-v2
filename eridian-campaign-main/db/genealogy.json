@@ -1,0 +1,75 @@
+{
+  "genealogy": {
+    "house_vermillion": {
+      "founder": "asura_i",
+
+      "generations": [
+        {
+          "id": "gen_0",
+          "members": [
+            {
+              "id": "asura_i",
+              "name": "Asura I",
+              "title": "The Sun",
+              "consorts": [
+                "serena",
+                "yuki"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "gen_1",
+          "branches": {
+            "ravencroft": {
+              "parent": "serena",
+              "members": [
+                "asher",
+                "byron"
+              ]
+            },
+            "ishikawa": {
+              "parent": "yuki",
+              "members": [
+                "hana",
+                "lilly"
+              ]
+            }
+          }
+        },
+        {
+          "id": "gen_2",
+          "parent": "byron",
+          "partners": [
+            "willow",
+            "mizora",
+            "isolde"
+          ],
+          "children": [
+            "asura",
+            "rin",
+            "unborn_heir"
+          ]
+        }
+      ],
+
+      "illegitimate_branch": {
+        "origin": "asura_i",
+        "members": [
+          "lillia"
+        ]
+      },
+
+      "non_blood_legacy": {
+        "carrei": {
+          "role": "martial_lineage",
+          "linked_to": [
+            "byron",
+            "asura",
+            "rin"
+          ]
+        }
+      }
+    }
+  }
+}

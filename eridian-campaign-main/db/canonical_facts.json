@@ -1,0 +1,34 @@
+{
+  "facts": [
+    {
+      "id": "fact_viminalis_process",
+      "description": "Viminalis es un proceso activo, progresivo e irreversible",
+      "source_event": "dia_32.reunion_hana_1",
+      "confidence": "high"
+    },
+    {
+      "id": "fact_asura_fusion",
+      "description": "Asura y Viminalis constituyen una entidad fusionada funcional",
+      "source_event": "dia_34.sintesis_viminalis_asura",
+      "confidence": "absolute"
+    },
+    {
+      "id": "fact_imperial_control",
+      "description": "El Imperio ha entrado en fase de contención activa sobre Asura",
+      "source_event": "dia_34.cerco_imperial",
+      "confidence": "high"
+    },
+    {
+      "id": "fact_corona_race",
+      "description": "Ha iniciado una carrera por la reunificación de las Coronas",
+      "source_event": "dia_34.quirinalis_asimilada",
+      "confidence": "high"
+    },
+    {
+      "id": "fact_family_system",
+      "description": "La familia Vermillion actúa como sistema de contención ética para Asura",
+      "source_event": "dias_35_37.reconciliacion_familiar_asura",
+      "confidence": "high"
+    }
+  ]
+}

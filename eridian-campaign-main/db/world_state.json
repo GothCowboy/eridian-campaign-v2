@@ -1,0 +1,31 @@
+{
+  "global": {
+    "phase": "convergencia",
+    "risk_level": "critical",
+    "imperial_posture": "containment",
+    "corona_system": "active"
+  },
+  "entities": {
+    "asura": {
+      "state": "fusion_entity",
+      "stability": "unstable_controlled",
+      "identity": "integrated",
+      "flags": [
+        "viminalis_active",
+        "viminalis_awakened"
+      ]
+    },
+    "imperio": {
+      "strategy": "containment",
+      "control_level": "high"
+    }
+  },
+  "active_flags": [
+    "viminalis_active",
+    "viminalis_awakened",
+    "corona_race_started",
+    "imperial_intervention_active",
+    "identity_stabilization",
+    "family_as_control_system"
+  ]
+}
