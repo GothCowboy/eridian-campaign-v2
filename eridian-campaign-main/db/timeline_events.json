@@ -2644,5 +2644,273 @@
       "critico"
     ],
     "importance": "critical"
-  }
+  },
+  {
+  "arc_id": "dias_38_50",
+  "type": "control_evaluacion_reorientacion",
+  "location": "imperia",
+  "state": {
+    "asura": {
+      "status": "estable_funcional",
+      "risk": "bajo_inmediato",
+      "protocol": "aldebaran_activo",
+      "evaluation_next": "dia_132",
+      "residence": "castillo_imperial"
+    }
+  },
+  "events": [
+    {
+      "event_id": "dia_41.conversacion_pre_evaluacion",
+      "day": 41,
+      "type": "psicologico",
+      "actors": ["asura", "byron"],
+      "key_points": [
+        "asura acepta responsabilidad",
+        "rechazo de rendicion",
+        "confirmacion de lucha interna activa"
+      ],
+      "outcome": "validacion_previa_evaluacion"
+    },
+    {
+      "event_id": "dia_42.evaluacion_war_council",
+      "day": 42,
+      "type": "politico",
+      "actors": ["asura", "elara", "ferris"],
+      "checks": [
+        "autocontrol",
+        "responsabilidad",
+        "consistencia discursiva"
+      ],
+      "result": {
+        "control": "funcional",
+        "risk": "bajo",
+        "execution": "denegada",
+        "follow_up": "3_meses"
+      }
+    },
+    {
+      "event_id": "dia_42.post_propuesta_castillo",
+      "day": 42,
+      "type": "estrategico",
+      "actors": ["asura", "familia"],
+      "decision": "residencia_castillo_imperial",
+      "reason": [
+        "maxima_seguridad",
+        "reduccion_sesgo_personal"
+      ],
+      "tradeoff": [
+        "perdida_autonomia",
+        "validacion_amenaza"
+      ]
+    },
+    {
+      "event_id": "dia_43.conversacion_rin_seraphina",
+      "day": 43,
+      "type": "emocional",
+      "actors": ["asura", "rin"],
+      "actions": [
+        "envio_regalo_seraphina",
+        "carta_cierre_emocional"
+      ],
+      "constraints": [
+        "sin_promesas_futuro",
+        "mantener_discrecion"
+      ],
+      "state_change": "aceptacion_amor_no_resoluble"
+    },
+    {
+      "event_id": "dia_45.instalacion_castillo",
+      "day": 45,
+      "type": "logistico",
+      "actors": ["asura", "malenia"],
+      "result": "residencia_establecida"
+    },
+    {
+      "event_id": "dia_45.reunion_mathilde",
+      "day": 45,
+      "type": "politico",
+      "actors": ["asura", "mathilde"],
+      "exchange": {
+        "asura": [
+          "recursos",
+          "red_vermillion",
+          "influencia"
+        ],
+        "mathilde": [
+          "cobertura_politica",
+          "informacion_interna",
+          "presencia_social"
+        ]
+      },
+      "conflict": "alianza_vs_rehen",
+      "outcome": "ruptura_parcial_confianza"
+    },
+    {
+      "event_id": "dias_46_49.aislamiento",
+      "day": "46-49",
+      "type": "psicologico",
+      "actors": ["asura"],
+      "pattern": [
+        "aislamiento",
+        "rutina_controlada",
+        "interaccion_minima"
+      ],
+      "state": "estabilizacion_pasiva"
+    },
+    {
+      "event_id": "dia_50.coordinacion_cuarteles",
+      "day": 50,
+      "type": "politico",
+      "actors": ["asura", "mathilde"],
+      "risk": "alto",
+      "impact": [
+        "visibilidad_militar",
+        "validacion_influencia_vermillion"
+      ]
+    },
+    {
+      "event_id": "dia_50.albergue_refugiados",
+      "day": 50,
+      "type": "socioeconomico",
+      "actors": ["asura", "mathilde"],
+      "offer": {
+        "trabajo": "4_meses",
+        "recompensa": "ciudadania",
+        "beneficios": [
+          "educacion",
+          "vivienda",
+          "salud"
+        ]
+      },
+      "result": {
+        "conversion": "~200_personas",
+        "impact": [
+          "mano_obra",
+          "legitimidad_politica",
+          "reduccion_carga_imperial"
+        ]
+      }
+    }
+  ]
+},
+{
+  "arc_id": "dias_51_54",
+  "type": "expansion_politica_consolidacion_transicion",
+  "location": "imperia_cempoala",
+  "events": [
+    {
+      "event_id": "dia_51.gira_orfanato",
+      "day": 51,
+      "type": "socioeconomico",
+      "actors": ["asura", "mathilde"],
+      "result": {
+        "beneficiarios": 7,
+        "accion": "integracion_cempoala"
+      },
+      "impact": [
+        "expansion_modelo_social",
+        "alianza_personal_mathilde"
+      ]
+    },
+    {
+      "event_id": "dia_51.consolidacion_alianza_personal",
+      "day": 51,
+      "type": "interpersonal",
+      "actors": ["asura", "mathilde"],
+      "change": "transicion_pieza_a_persona",
+      "outcome": "confianza_inicial"
+    },
+    {
+      "event_id": "dia_52.gira_iglesia",
+      "day": 52,
+      "type": "socioeconomico",
+      "actors": ["asura", "mathilde"],
+      "result": {
+        "beneficiarios_totales": 191,
+        "accion": "donacion_reparacion"
+      },
+      "impact": [
+        "consistencia_discurso_accion",
+        "validacion_modelo_no_transaccional"
+      ]
+    },
+    {
+      "event_id": "dia_52.rechazo_capital_politico",
+      "day": 52,
+      "type": "filosofico",
+      "actors": ["asura", "mathilde"],
+      "decision": "no_explotar_publicidad",
+      "impact": [
+        "ruptura_logica_imperial",
+        "construccion_lealtad_real"
+      ]
+    },
+    {
+      "event_id": "dia_53.visita_cuarteles",
+      "day": 53,
+      "type": "militar",
+      "actors": ["asura", "mathilde", "asher"],
+      "data": {
+        "tropas": 200,
+        "vermillion": 60,
+        "imperiales": 140
+      },
+      "insight": "lealtad_diferencial",
+      "risk": "potencial_conflicto_interno"
+    },
+    {
+      "event_id": "dia_53.test_mathilde",
+      "day": 53,
+      "type": "estrategico",
+      "actors": ["asura", "mathilde"],
+      "condition": "fallo_interrogatorio_exclusion",
+      "implication": "todo_o_nada"
+    },
+    {
+      "event_id": "dia_53.creacion_homunculo",
+      "day": 53,
+      "type": "arcano",
+      "actors": ["asura", "asmodeus"],
+      "result": {
+        "estado": "sellado",
+        "proposito": [
+          "contenedor_corona",
+          "cebo",
+          "trigger_rune_legend"
+        ]
+      }
+    },
+    {
+      "event_id": "dia_53.interrogatorio_mathilde",
+      "day": 53,
+      "type": "politico",
+      "actors": ["mathilde", "emperador", "shadow_council"],
+      "result": "superado",
+      "condition": "retorno_dia_67",
+      "evaluation": "alta_capacidad_politica"
+    },
+    {
+      "event_id": "dia_53.divergencia_agendas_mathilde",
+      "day": 53,
+      "type": "politico",
+      "actors": ["mathilde"],
+      "forces": [
+        "imperio",
+        "duurden",
+        "vermillion"
+      ],
+      "state": "decision_pendiente"
+    },
+    {
+      "event_id": "dia_54.partida_cempoala",
+      "day": 54,
+      "type": "transicion",
+      "actors": ["asura", "mathilde", "familia"],
+      "data": {
+        "refugiados": 191
+      },
+      "state": "traslado_activo"
+    }
+  ]
+}
 ]
