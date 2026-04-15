@@ -89,39 +89,27 @@ Fortalezas:
 
 ## @narrator_only
 
-### Estado interno real
+### Lectura real
 
-Asura no es completamente estable.
+Asura ya no está en conflicto con Viminalis  
 
-- Presenta episodios de conducta fuera de carácter  
-- No recuerda completamente ciertas acciones  
-- Existe una disonancia entre intención y ejecución  
+→ lo ha integrado como parte de sí  
 
 ---
 
 ### Viminalis
-Portador de [[viminalis]]
-
-Estado:
-- Activación temprana  
-- Manifestaciones sutiles pero crecientes  
-
-Efectos actuales:
-- Alteraciones emocionales leves  
-- Tendencias hacia frialdad y juicio deshumanizado en momentos específicos  
-- Incremento de impulsos que no reconoce como propios  
+Portador de [[viminalis]] 
  
 ---
 
-### Progresión (interna)
-Fase actual:
-1. Incongruencia leve — estado: activo
-2. Manifestación conductual — estado: activo
-3. Reconocimiento — estado: PARCIAL
-   - Sabe que algo afecta sus decisiones (confirmado Día 20)
-   - Byron le explicó rol de Viminalis
-   - NO reconoce alcance completo del control
-4. Conflicto consciente — estado: no alcanzado
+## @state
+
+### Estado actual (Día 71)
+
+- Identidad: **integrada con Viminalis**
+- Control: **funcional bajo estrés alto**
+- Riesgo: **interno activo**
+- Naturaleza: **entidad híbrida (no completamente humana)**
 
 ---
 
@@ -129,14 +117,6 @@ Fase actual:
 - Escalada progresiva de pérdida de control  
 - Posible ruptura entre identidad pública y real  
 - Impacto directo en relaciones cercanas (especialmente [[rin]])  
-
----
-
-### Conocimiento externo sobre su estado
-
-- Conocimiento completo: [[byron]]  
-- Sospecha activa: [[rin]], [[lillia]]  
-- Conocimiento parcial: [[asura]]  
 
 ---
 
@@ -179,16 +159,6 @@ La transición debe ser:
   - espejo  
   - contraste  
   - corrector de trayectoria  
-
----
-
-### Uso de Viminalis
-
-- Nunca revelar directamente su naturaleza  
-- Manifestar a través de:
-  - decisiones sutilmente incorrectas  
-  - cambios de tono  
-  - momentos de desconexión  
 
 ---
 

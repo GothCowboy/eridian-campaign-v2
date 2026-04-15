@@ -10,8 +10,7 @@ ID: rin
 - Rol: Co-protagonista
 - Casa: Vermillion / Kaguya
 - Posición: Archiduquesa, hermana del heredero
-- Ubicación actual: Imperia
-- Próximo destino: Sylvaris (2 semanas, como "Rin")
+- Ubicación actual: Sylvaris, con Elowin.
 
 ---
 
@@ -183,7 +182,14 @@ Prefiere potenciar capacidades físicas y manipular terreno
 **vs Kael Wittelsbach:**
 - Empate (Combate Avanzado Eridian, 3 semanas antes de Día 21)
 - Primera persona que detiene a Kael en combate formal
-   
+
+### Lectura real
+
+Rin es el único personaje que:
+
+→ no idealiza a Asura  
+→ no le teme  
+→ no lo abandona 
 
 ---
 
@@ -242,7 +248,17 @@ No debe tratarse como satélite de [[asura]].
 1. Deber (Archiduquesa) vs Deseo (ser "solo Rin")
 2. Lealtad (Asura/familia) vs Autonomía (vida propia)
 3. Control (proyectado) vs Vulnerabilidad (interna)
-  
+---
+
+## @state
+
+### Estado actual (Día 71)
+
+- Relación con Asura: **núcleo estable pero vigilante**
+- Conocimiento: **completo sobre Viminalis**
+- Rol: **auditor y contrapeso**
+- Conflicto: **autonomía vs lealtad**
+
 ---
 
 ### Nota crítica

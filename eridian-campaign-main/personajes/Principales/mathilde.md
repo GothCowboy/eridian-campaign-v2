@@ -32,88 +32,53 @@ ID: mathilde
 
 ### Presencia
 
-- Oscila entre:
-  - suavidad doméstica  
-  - autoridad natural en entorno aristocrático  
-
-Lectura:
-
-> Puede parecer frágil hasta que decide no serlo  
+- Elegante  
+- Directa  
+- Autoridad social natural  
 
 ---
 
-### Personalidad
+### Personalidad observable
 
-#### Núcleo
-
-- Altamente apegada a figuras de confianza  
-- Acostumbrada a recibir atención directa  
-- Expresiva en lo que desea  
-
----
-
-#### Rasgos dominantes
-
-- Directa al pedir  
-- No oculta necesidades emocionales  
-- Cómoda en cercanía física con personas de confianza  
-
----
-
-#### “Filo interno”
-
-- Carácter fuerte heredado  
-- Baja tolerancia a injusticia  
-
-Comportamiento:
-
-- confronta abuso social  
-- interviene activamente ante bullying  
-- no delega cuando considera que debe actuar  
+- Expresiva  
+- Estratégica  
+- No evita confrontación  
 
 ---
 
 ### Inteligencia
 
 - Alta capacidad política  
-- Pensamiento estratégico adaptativo  
-
-Habilidades:
-
-- anticipación de movimientos  
-- lectura de intenciones  
-- uso de entorno social como sistema  
+- Adaptación en tiempo real  
 
 ---
 
-### Conducta social
+## @state
 
-- Diferencia claramente entre:
-  - aliados  
-  - rivales  
-  - oportunistas  
+### Estado actual
 
-- Puede:
-  - desarmar socialmente  
-  - confrontar directamente  
-  - manipular sin perder compostura  
+- Relación: vínculo formalizado con Asura  
+- Confianza: alta, informada  
+- Conciencia de riesgo: total  
 
 ---
 
-### Voz
+### Nuevo eje
 
-- Natural  
-- Directa  
-- Sin formalismo innecesario en confianza  
+- Desarrollo de **agenda política propia**
+- Transición de:
+  - actor reactivo  
+  → actor generador de sistema  
 
 ---
 
-#### Ejemplos
+### Flags activos (actualizado)
 
-- “Eso no es aceptable.”  
-- “Si lo haces otra vez, lo detengo yo.”  
-- “Dámelo.”  
-- “No me gusta cómo lo estás diciendo.”  
+- `mutual_risk_awareness`
+- `non_idealized_bond`
+- `political_dual_alignment`
+- `emergent_power_center`
+- `long_term_strategy_active`
 
 ---
 
@@ -121,94 +86,25 @@ Habilidades:
 
 ### Lectura real
 
-Mathilde presenta una dualidad clara:
+Mathilde no confía “a pesar del riesgo”
 
-1. Dependencia emocional selectiva  
-2. Autonomía funcional en entorno hostil  
+→ confía **entendiendo el riesgo**
+
+---
+### Evolución en curso
+
+Mathilde deja de ser:
+
+→ mediadora entre sistemas  
+
+y comienza a convertirse en:
+
+→ generadora de sistema propio  
 
 ---
 
-### Adaptabilidad
+### Núcleo actualizado
 
-A pesar de su formación protegida:
-
-- se adapta rápidamente a entornos competitivos  
-- aprende reglas no escritas  
-- utiliza estructuras existentes a su favor  
-
----
-
-### Capacidad política
-
-- No teoriza en exceso  
-- Aprende en ejecución  
-
-Ejemplo estructural:
-
-- detecta trampas sociales  
-- redirige dinámicas  
-- convierte presión en ventaja  
-
----
-
-### Relación con poder
-
-- No teme autoridad  
-- No busca confrontación innecesaria  
-- Pero:
-
-> no retrocede si considera que algo es injusto  
-
----
-
-### Código interno
-
-Principio dominante:
-
-> “La fuerza existe para detener abusos, no para ejercerlos”  
-
----
-
-### Riesgo
-
-- Su apego emocional puede ser explotado  
-- Tiende a involucrarse personalmente en conflictos  
-
----
-
-### Fortalezas
-
-- Inteligencia social  
-- Resolución rápida  
-- Capacidad de acción directa  
-
----
-
-### Rol narrativo
-
-Mathilde funciona como:
-
-> princesa joven que sí entiende el sistema en el que vive  
-
----
-
-### Función
-
-- representar la nueva generación aristocrática funcional  
-- introducir conflictos políticos a escala interpersonal  
-- servir como punto medio entre:
-  - emoción  
-  - estrategia  
-
----
-
-### Lectura final
-
-Mathilde no es una estratega pura  
-ni una combatiente dominante  
-
-Es:
-
-> alguien que entiende cuándo hablar  
-> cuándo actuar  
-> y cuándo romper las reglas para que el sistema funcione
+```text
+no solo sobrevivir al sistema
+→ reconfigurarlo

@@ -1,4 +1,4 @@
-# Cronologia Relacion — Asura & Mathilde
+# Cronología Relación — Asura & Mathilde
 
 ## Identificación
 
@@ -9,469 +9,206 @@
 
 ## Fase 0 — Imposición
 
-### Evento
+**Evento:** dia_27.imposicion_imperial  
 
-- ID: dia_27.imposicion_imperial
+- Estado: vínculo impuesto  
+- Naturaleza: instrumental, sin agencia  
 
----
+**Dinámica**
+- Asura: rechazo interno  
+- Mathilde: aceptación funcional  
 
-### Estado
-
-- Relación inexistente
-- Vínculo impuesto
-
----
-
-### Naturaleza
-
-- Instrumental
-- Sin agencia
-
----
-
-### Dinámica
-
-- Asura: rechazo interno, ruptura
-- Mathilde: aceptación funcional (implícita)
-
----
-
-### Resultado
-
-- Base coercitiva establecida
+**Resultado**
+- Base coercitiva establecida  
 
 ---
 
 ## Fase 1 — Contacto inicial
 
-### Evento
+**Evento:** dia_28.encuentro_mathilde  
 
-- ID: dia_28.encuentro_mathilde
+- Estado: desconfianza mutua  
+- Naturaleza: negociación  
 
----
+**Dinámica**
+- Mathilde fuerza honestidad  
+- Asura concede mínimo  
 
-### Estado
+**Punto de inflexión**
+- separación público / privado  
 
-- Desconfianza mutua
-- Evaluación activa
-
----
-
-### Naturaleza
-
-- Negociación
-- Reducción de incertidumbre
-
----
-
-### Dinámica
-
-- Mathilde rompe protocolo → fuerza honestidad
-- Asura resiste → concede mínimo
-
----
-
-### Punto de inflexión
-
-- Acuerdo:
-  - público = protocolo
-  - privado = honestidad
-
----
-
-### Resultado
-
-- Alianza funcional inicial
-- Confianza: mínima
-- Distancia: alta
+**Resultado**
+- alianza funcional inicial  
 
 ---
 
 ## Fase 2 — Formalización sin vínculo
 
-### Evento
+**Evento:** dia_30.formalizacion_publica  
 
-- ID: dia_30.formalizacion_publica
+- Estado: legitimación sin conexión  
+- Naturaleza: coordinación operativa  
 
----
-
-### Estado
-
-- Relación legitimada públicamente
-- Sin conexión real
-
----
-
-### Naturaleza
-
-- Coordinación operativa
-
----
-
-### Dinámica
-
-- Mathilde: interfaz social
-- Asura: observador estratégico
-
----
-
-### Resultado
-
-- Canal de cooperación activo
-- Intercambio de valor inicial
-- Distancia emocional intacta
+**Resultado**
+- canal de cooperación activo  
 
 ---
 
 ## Fase 3 — Distancia estructural
 
-### Evento
+**Evento:** dias_30_42.distancia  
 
-- ID: dias_30_42.distancia
+- Estado: relación nominal  
+- Naturaleza: suspensión  
 
----
-
-### Estado
-
-- Interacción casi nula
-- Relación nominal
-
----
-
-### Naturaleza
-
-- Suspensión operativa
-
----
-
-### Dinámica
-
-- Asura: preparación evaluación
-- Mathilde: entorno imperial
-
----
-
-### Resultado
-
-- Relación no evoluciona
-- Confianza no crece
-- Estabilidad pasiva
+**Resultado**
+- estabilidad pasiva  
 
 ---
 
 ## Fase 4 — Validación indirecta
 
-### Evento
+**Evento:** dia_42.defensa_publica_mathilde  
 
-- ID: dia_42.defensa_publica_mathilde
+- Naturaleza: acción por principio  
 
----
+**Punto de inflexión**
+- primer acto no instrumental  
 
-### Estado
-
-- Sin contacto directo
-- Influencia indirecta
-
----
-
-### Naturaleza
-
-- Acción por principio
-
----
-
-### Dinámica
-
-- Asura defiende a Mathilde ante ataque externo
-
----
-
-### Punto de inflexión
-
-- Primer acto no instrumental hacia Mathilde
-
----
-
-### Resultado
-
-- Base de respeto potencial
-- Cambio unilateral (Mathilde lo reconoce después)
+**Resultado**
+- base de respeto  
 
 ---
 
 ## Fase 5 — Reencuentro real
 
-### Evento
+**Evento:** dia_50.primer_contacto_real  
 
-- ID: dia_50.primer_contacto_real
+- Naturaleza: evaluación empírica  
 
----
+**Punto de inflexión**
+- Mathilde lo reconoce como persona  
 
-### Estado
-
-- Interacción directa
-- Observación activa
-
----
-
-### Naturaleza
-
-- Evaluación empírica
-
----
-
-### Dinámica
-
-- Mathilde observa acción real de Asura
-- Asura actúa sin intención de impresionar
-
----
-
-### Punto de inflexión
-
-- Mathilde deja de verlo como pieza → lo ve como persona
-
----
-
-### Resultado
-
-- Inicio de respeto real
-- Distancia comienza a reducirse
+**Resultado**
+- inicio de respeto real  
 
 ---
 
 ## Fase 6 — Conexión funcional
 
-### Evento
+**Evento:** dia_51.conexion_orfanato  
 
-- ID: dia_51.conexion_orfanato
+- Naturaleza: reconocimiento mutuo  
 
----
-
-### Estado
-
-- Interacción directa sostenida
-- Apertura controlada
-
----
-
-### Naturaleza
-
-- Reconocimiento mutuo
-
----
-
-### Dinámica
-
-- Mathilde identifica coherencia interna de Asura
-- Asura establece términos claros de relación
-
----
-
-### Punto de inflexión
-
-- “Entonces somos más parecidos de lo que pensé”
-
----
-
-### Resultado
-
-- Primera conexión personal real
-- Confianza: baja → funcional
-- Relación deja de ser puramente política
+**Resultado**
+- confianza funcional  
 
 ---
 
 ## Fase 7 — Consolidación ideológica
 
-### Evento
+**Evento:** dia_52.consolidacion_iglesia  
 
-- ID: dia_52.consolidacion_iglesia
+- Naturaleza: validación de principios  
 
----
-
-### Estado
-
-- Relación en expansión
-
----
-
-### Naturaleza
-
-- Validación de principios
-
----
-
-### Dinámica
-
-- Mathilde confronta lógica política
-- Asura reafirma principios no transaccionales
-
----
-
-### Punto de inflexión
-
-- Mathilde reconoce:
-  - Asura opera fuera del sistema imperial
-
----
-
-### Resultado
-
-- Alineación ideológica parcial
-- Respeto consolidándose
+**Resultado**
+- alineación parcial  
 
 ---
 
 ## Fase 8 — Fricción y prueba
 
-### Evento
+**Evento:** dia_53.test_mathilde  
 
-- ID: dia_53.test_mathilde
+- Naturaleza: prueba de valor  
 
----
-
-### Estado
-
-- Relación bajo presión
-
----
-
-### Naturaleza
-
-- Evaluación de valor
-
----
-
-### Dinámica
-
-- Asura impone condición absoluta
-- Mathilde acepta sin garantía
-
----
-
-### Punto de inflexión
-
-- Eliminación de protección
-- Igualdad bajo consecuencias reales
-
----
-
-### Resultado
-
-- Riesgo máximo de ruptura
-- Respeto condicionado a desempeño
+**Resultado**
+- riesgo máximo  
 
 ---
 
 ## Fase 9 — Validación mutua
 
-### Evento
+**Evento:** dia_53.interrogatorio_superado  
 
-- ID: dia_53.interrogatorio_superado
+- Naturaleza: confirmación bajo presión  
 
----
-
-### Estado
-
-- Relación validada bajo estrés
+**Resultado**
+- confianza funcional alta  
 
 ---
 
-### Naturaleza
+## Fase 10 — Validación estructural
 
-- Confirmación de competencia
+### Eventos
 
----
+**dia_56.integracion_cempoala**
+- Validación del poder real de Asura  
+- Mathilde evalúa pertenencia  
 
-### Dinámica
+**dia_57.validacion_bajo_riesgo**
+- Validación bajo estímulo crítico  
+- Confianza operativa consolidada  
 
-- Mathilde ejecuta bajo presión extrema
-- Asura obtiene prueba real
-
----
-
-### Punto de inflexión
-
-- Mathilde deja de ser “incertidumbre”
-
----
-
-### Resultado
-
-- Respeto mutuo consolidado
-- Confianza: funcional alta
-- Distancia emocional aún presente
+**dias_58_65.desplazamiento_eje**
+- Relación pierde centralidad  
+- Sistema externo domina  
 
 ---
 
-## Fase 10 — Estado actual
+## Fase 11 — Riesgo interno
 
 ### Evento
 
-- ID: dia_54.transicion_cempoala
+**dias_66_70.fractura_latente**
+
+- Naturaleza: divergencia interna  
+
+**Dinámica**
+- Mathilde: observa sin confrontar  
+- Asura: evalúa escenarios extremos  
+
+**Punto de inflexión**
+- aparición de riesgo directo  
+
+**Resultado**
+- compromiso + amenaza coexisten  
 
 ---
 
-### Estado
+## Fase 11.1 — Equilibrio consciente
 
-- Alianza funcional activa
-- En transición
+### Evento
 
----
+**dia_71.equilibrio_consciente**
 
-### Naturaleza
+- Naturaleza: transparencia total  
 
-- Construcción estructural
+**Dinámica**
+- Mathilde: acepta sin idealizar  
+- Asura: reconoce su no-humanidad  
 
----
+**Punto de inflexión**
+- confianza → informada  
 
-### Dinámica
-
-- Asura:
-  - ofrece respeto, no amor
-  - mantiene límites claros
-
-- Mathilde:
-  - acepta términos
-  - evalúa pertenencia
-
----
-
-### Características
-
-- Honestidad total
-- Expectativas explícitas
-- Sin ilusión romántica
-
----
-
-### Tensión central
-
-- Decisión Día 67:
-  - regresar → continuidad política
-  - quedarse → ruptura con Imperio
-
----
-
-### Resultado
-
-- Relación estable pero no resuelta
-- Alto potencial de evolución o colapso
+**Resultado**
+- estabilidad máxima bajo riesgo  
 
 ---
 
 ## Síntesis evolutiva
 
-- Imposición → negociación  
-- Negociación → formalización  
-- Formalización → distancia  
-- Distancia → validación indirecta  
-- Validación → reconocimiento  
-- Reconocimiento → respeto  
-- Respeto → prueba  
-- Prueba → validación  
-- Validación → alianza funcional  
+- Imposición  
+→ Negociación  
+→ Formalización  
+→ Distancia  
+→ Validación  
+→ Respeto  
+→ Prueba  
+→ Confianza  
+→ Alianza  
+→ Riesgo interno  
+→ Equilibrio consciente  
 
 ---
 
@@ -480,23 +217,21 @@
 Relación basada en:
 
 - honestidad brutal  
-- respeto ganado  
-- pragmatismo compartido  
+- validación bajo presión  
+- coherencia entre acción y principio  
 
-Sin:
+No basada en:
 
 - romance  
 - dependencia  
-- subordinación  
+- idealización  
 
 ---
 
-## Nota estructural
+## Regla estructural
 
-La relación no evoluciona por cercanía emocional.
-
-Evoluciona por:
+La relación evoluciona por:
 
 → decisiones bajo riesgo  
-→ validación bajo presión  
-→ coherencia entre acción y principio
+→ evidencia empírica  
+→ consistencia conductual  

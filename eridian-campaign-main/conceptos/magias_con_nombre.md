@@ -32,7 +32,7 @@ Mata seres divinos. Usada por Asura I para terminar la Segunda Guerra Eldrica.
 Manipulación espacial y translocación.
 
 7. Heaven's Feel – Helix Cornos  
-Regeneración propia.
+Regeneración biologica, regresion y sanacion.
 
 8. Soul Forge - Prism Revelations  
 Proyección del alma como dominio.

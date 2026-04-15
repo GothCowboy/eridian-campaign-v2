@@ -1,87 +1,223 @@
 [
   {
-    "event_id": "dia_32.reunion_hana_1",
+    "event_id": "dia_27.imposicion_imperial",
     "effects": {
       "world_state_updates": {
-        "viminalis_status": "active_process"
+        "asura_mathilde_relation": "imposed_link"
       },
       "flags_added": [
-        "viminalis_active",
-        "memory_intrusion"
+        "relation_coercive_origin"
       ],
       "flags_removed": [],
-      "relations_changed": []
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "imposed"
+        }
+      ]
     }
   },
   {
-    "event_id": "dia_34.despertar_viminalis",
+    "event_id": "dia_28.encuentro_mathilde",
     "effects": {
       "world_state_updates": {
-        "viminalis_status": "awakened",
-        "asura_state": "fusion_entity",
-        "corona_system": "active"
+        "asura_mathilde_relation": "negotiated_protocol"
       },
       "flags_added": [
-        "viminalis_awakened",
-        "corona_race_started"
+        "private_honesty_channel"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "functional_negotiation"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dia_42.defensa_publica_mathilde",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "asymmetric_respect_seed"
+      },
+      "flags_added": [
+        "non_instrumental_action"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "respect_potential"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dia_50.primer_contacto_real",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "personal_recognition"
+      },
+      "flags_added": [
+        "humanization_of_asura"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "early_respect"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dia_51.conexion_orfanato",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "functional_trust"
+      },
+      "flags_added": [
+        "shared_values_detected"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "functional_trust"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dia_52.consolidacion_iglesia",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "ideological_alignment_partial"
+      },
+      "flags_added": [
+        "non_imperial_framework_alignment"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "aligned_partial"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dia_53.interrogatorio_superado",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "validated_under_stress"
+      },
+      "flags_added": [
+        "mutual_competence_confirmed"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "high_functional_trust"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dia_56.integracion_cempoala",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "empirical_validation"
+      },
+      "flags_added": [
+        "vermilion_system_exposure"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "validated_real_context"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dia_57.validacion_bajo_riesgo",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "risk_validated_trust"
+      },
+      "flags_added": [
+        "control_under_extreme_stimulus_confirmed"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "operational_trust"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dias_58_65.desplazamiento_eje",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "system_subordinated"
+      },
+      "flags_added": [
+        "external_pressure_dominant"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "non_central"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dias_66_70.fractura_latente",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "internal_risk_present"
+      },
+      "flags_added": [
+        "internal_threat_detected",
+        "latent_lethality"
+      ],
+      "flags_removed": [],
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "unstable_internal"
+        }
+      ]
+    }
+  },
+  {
+    "event_id": "dia_71.equilibrio_consciente",
+    "effects": {
+      "world_state_updates": {
+        "asura_mathilde_relation": "conscious_equilibrium"
+      },
+      "flags_added": [
+        "mutual_risk_awareness",
+        "explicit_ruleset",
+        "non_idealized_bond"
       ],
       "flags_removed": [
-        "viminalis_dormant"
+        "implicit_trust"
       ],
-      "relations_changed": []
-    }
-  },
-  {
-    "event_id": "dia_34.cerco_imperial",
-    "effects": {
-      "world_state_updates": {
-        "imperial_posture": "containment"
-      },
-      "flags_added": [
-        "imperial_intervention_active"
-      ],
-      "flags_removed": [],
-      "relations_changed": []
-    }
-  },
-  {
-    "event_id": "dia_34.quirinalis_asimilada",
-    "effects": {
-      "world_state_updates": {
-        "corona_balance": "destabilized"
-      },
-      "flags_added": [
-        "dual_corona_entity",
-        "corona_race_started"
-      ],
-      "flags_removed": [],
-      "relations_changed": []
-    }
-  },
-  {
-    "event_id": "dias_35_37.aceptacion_identidad",
-    "effects": {
-      "world_state_updates": {
-        "asura_identity": "integrated"
-      },
-      "flags_added": [
-        "identity_stabilization"
-      ],
-      "flags_removed": [],
-      "relations_changed": []
-    }
-  },
-  {
-    "event_id": "dias_35_37.reconciliacion_familiar_asura",
-    "effects": {
-      "world_state_updates": {
-        "family_state": "conditional_unity"
-      },
-      "flags_added": [
-        "family_as_control_system"
-      ],
-      "flags_removed": [],
-      "relations_changed": []
+      "relations_changed": [
+        {
+          "relation": "asura_mathilde",
+          "state": "stable_high_risk"
+        }
+      ]
     }
   }
 ]
